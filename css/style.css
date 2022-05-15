@@ -1,0 +1,199 @@
+
+html{
+	padding:0;
+	margin:0;
+	
+	}
+	
+	
+body{
+	padding:0;
+	margin:0;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#000;
+	font-size:12px;
+	}
+img, ul{
+	margin:0;
+	padding:0;
+	}
+
+	
+#wrapper{
+	width:80%;
+	margin:auto;
+	}
+
+
+
+#header{
+	height:211px;
+	width:100%;
+	}
+	
+	
+
+#footer{
+	height:100px;
+	color:#FFF;
+	
+	}
+
+#footer ul{
+	list-style-type:none;
+	}
+
+.coloredline{
+	background-image:url(../images/colored_line.gif);
+	background-repeat:no-repeat;
+	height:8px;}
+
+
+#flash+menu{
+	margin:0;
+	padding:0;
+	height:362px;
+	width:100%;
+	border:1px solid #000;}
+	
+
+#flash{
+	width:auto;
+	height:auto;
+	margin:1px 0;
+	padding:0;
+	
+	float:left;
+	}
+	
+#flash img{
+	margin:0;
+	padding:0;
+	}
+	
+	
+#menu{
+	}
+	
+	
+h3{
+	background-image:url(../images/titlte_line.gif);
+	padding:5px 0 0 10px;
+	margin:20px 0;
+	color:#fff;
+	height:34px;
+	background-repeat:no-repeat;
+	}	
+	
+#homebody{
+	background-image:url(../images/logo_watermark.gif);
+	background-repeat:no-repeat;
+	background-position:center;
+	margin-bottom:20px;
+	}
+	
+	
+#regform{
+	color:#333;
+	}
+
+#regform .input{
+	border:1px solid #bcbbba;
+	height:25px;}
+	
+	
+#regform .register{
+	background-image:url(../images/register_butt.gif);
+	background-repeat:no-repeat;
+	width:172px;
+	height:62px;
+	}
+	
+#regform .register:hover{
+	background-image:url(../images/register_butt_hover.gif);
+	background-repeat:no-repeat;
+	width:172px;
+	height:62px;
+	cursor:pointer;
+	}
+	
+	
+	
+	#regform select{
+border:1px solid #bcbbba;
+	height:25px;		}
+	
+	
+	
+.msg {padding:10px; padding-left:35px;}
+.msg.warning {background:url("../images/ico-warning.gif") 10px 50% no-repeat;}
+.msg.info {background:url("../images/ico-info.gif") 10px 50% no-repeat;}
+.msg.done {background:url("../images/ico-done.gif") 10px 50% no-repeat;}
+.msg.error {background:url("../images/ico-delete.gif") 10px 50% no-repeat;}
+
+
+.msg.warning {border:2px solid #F2DD8C; background-color:#FFF5CC;}
+.msg.warning a {color:#df0000;} .msg.warning a:hover, .msg.warning a:active, .msg.warning a:focus {color:#303030;}
+.msg.info {border:2px solid #B8E2FB; background-color:#E8F6FF;}
+.msg.done {border:2px solid #BBDF8D; background-color:#EAF7D9;}
+.msg.error {border:2px solid #FFAEAE; background-color:#FEEBEB;}
+
+
+
+
+.listable{
+margin:auto;
+font-weight:normal;
+font-family:Tahoma, Geneva, sans-serif;
+	
+	}
+
+
+
+.thead{
+	background-image:url(../images/thead.gif);
+	height:42px;
+	background-repeat:no-repeat;
+	width:100%;
+	color:#fff;
+	text-transform:uppercase;
+	border-collapse:collapse;
+	}
+
+.tr{
+	height:25px;
+	}
+
+.tr a{
+	color:#F90;
+	}
+.tr:hover{
+	background-color:#03a1d1;
+	color:#fff;
+	cursor:pointer;
+	}
+.tr td{
+	border:1px solid #cccdcd;}
+	
+	
+	
+	#mail input{
+	border:1px solid #bcbbba;
+	height:25px;}
+		
+#mail .send{
+	background-image:url(../images/send.gif);
+	background-repeat:no-repeat;
+	width:170px;
+	height:62px;
+	}
+	
+#mail .send:hover{
+	background-image:url(../images/send_hover.gif);
+	background-repeat:no-repeat;
+	width:170px;
+	height:62px;
+	cursor:pointer;
+	}
+	
+	
